@@ -1,0 +1,25 @@
+table{
+    border-collapse:collapse; /*將表格欄位邊框合併*/
+    width: 70%;/*table寬度*/
+    table-layout: fixed;/*統一欄位大小*/
+}
+td,th{
+    text-align: center;/*table內文字置中*/
+    padding: 20px;/*設定內距*/
+}
+th{
+    background-color:  rgb(95, 109, 76);/*th欄位顏色*/
+    color: white;/*th欄位內文字顏色*/
+}
+td{
+    background-color:  rgb(150, 173, 118);/*td欄位顏色*/
+    color: white;/*td欄位內文字顏色*/
+}
+
+body{
+    background-color: blanchedalmond;/*背景顏色*/
+}
+p{
+    font-style: italic;/*設定字體斜體*/
+}
+
